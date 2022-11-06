@@ -15,14 +15,17 @@ h3{
 }
 
 th{
-
+  color: white;
+  font-size: 60px;
+  border: 2px solid;
+  border-color: #80e5ff;
 }
 
 td{
   color: white;
   font-size: 40px;
   border: 2px dotted;
-  border-color: magenta;
+  border-color: #80e5ff;
 }
 
 img{
