@@ -41,7 +41,7 @@ td{
 img{
   width: 200px;
   height: 200px;
-  border: 2px solid;
+  border: 2px dashed;
   border-color: #99ebff;
   padding: 10px;
 }
